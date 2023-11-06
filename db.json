@@ -2,7 +2,7 @@
   "Blogs": [
     {
       "id": 1,
-      "title": "Angular 16",
+      "title": "Angular 10",
       "description": "Angular 16 is an opensource powered by google"
     },
     {
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "title": "Java",
-      "description": "Java Tech"
+      "title": "Java test",
+      "description": "Java Tech test"
     }
   ]
 }
